@@ -1,8 +1,9 @@
 --Reporte de Ventas de cadenas de tiendas
 <Ini>
-1. obtenter productos mas vendidos en ('Lima','Trujillo','Arequipa','Piura', 'Cuzco','Ayacucho', 'Tumbes')
-2. Filtra productos por genero = ('Mujer','Niños')
-3. Filtrar por productos = ('zapatos', 'pantalones', 'abrigos')
+1. obtenter productos mas vendidos en ('Lima','Trujillo','Arequipa','Piura', 'Cuzco','Ayacucho', 'Tumbes','Puno', 'Cajamarca', 'Amazonas')
+2. Filtra productos por genero = ('Mujer')
+3. Filtrar por productos = ('zapatos', 'abrigos')
 3. Ordenar productos mas vendidos, por departamento
 4. Mostrar reporte
+
 <Fin>
